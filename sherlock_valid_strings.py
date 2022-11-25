@@ -10,7 +10,7 @@ def sherlock_string(s):
 		else:
 			return "Yes"
 	else:
-		return "NO"
+		return "No"
 	
 	
 	
